@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently Researching in DevOps
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to draw and blah blah..
 
 ## ⚡ Technologies
 
@@ -63,3 +63,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 </p>
 <br />
+
+### Github Stats
+
+[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuvs369&show_icons=true&count_private=true)](https://github.com/vishnuvs369)
