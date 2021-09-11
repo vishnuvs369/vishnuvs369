@@ -43,13 +43,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
-
-
-
-
-
-### Languages and Tools
-
 <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
