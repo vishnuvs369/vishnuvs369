@@ -1,6 +1,7 @@
 ## Hi there ! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 
-I'm a fullstack Software developer and Cloud Enthusiast from Kerala , India. I am a Btech Computer Science and Engineering Graduate. I like building new stuff and work with other people.
+I'm a fullstack Software developer and Cloud Enthusiast from Kerala , India. I am a Btech Computer Science and Engineering Graduate. 
+I like building new stuff and work with other people.
 
 
 
