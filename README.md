@@ -14,7 +14,6 @@ I like building new stuff and work with other people.
 ### You can find my stuff here :leaves:
 
 - My Personal Website :yum: [vishnuvs.com](http://vishnuvs.unaux.com/)
- <img align="right" alt="GIF" src="https://github.com/vishnuvs369/vishnuvs369/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 Here are some ideas to get you started:
