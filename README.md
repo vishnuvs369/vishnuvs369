@@ -8,7 +8,7 @@ I like building new stuff and work with other people.
 
 [![Gmail Badge](https://img.shields.io/badge/-vishnuvs769@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuvs769@gmail.com)](mailto:vishnuvs769@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-vishnuvs?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-vs-a74699163/)](https://www.linkedin.com/in/vishnu-vs-a74699163/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ### You can find my stuff here :leaves:
