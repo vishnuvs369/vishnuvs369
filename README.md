@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
-![]
+
 
 
 
@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 ### Github Stats
 
 [![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuvs369&show_icons=true&count_private=true)](https://github.com/vishnuvs369)
-[![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?vishnuvs369={vishnuvs369}&theme=blue-green)
+
