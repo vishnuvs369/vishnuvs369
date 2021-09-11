@@ -68,7 +68,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![Vishnu's GitHub Stats](📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuvs369&show_icons=true&theme=gotham" alt="vishnuvs369" />](https://github.com/vishnuvs369)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuvs369&show_icons=true&theme=gotham" alt="vishnuvs369" />
