@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to draw and blah blah..
 
-## ⚡ Technologies
+## ⚡ Languages & Technologies
 
 <!--- just --->
 
