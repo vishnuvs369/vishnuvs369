@@ -3,13 +3,17 @@
 I'm a Software Engineer and Cloud & DevOps Enthusiast from Kerala , India. I am a Btech Computer Science and Engineering Graduate. 
 I like building new stuff and work with other people.
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/vishnu-vs-a74699163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/iamvishnuvs/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/vishnu-vs-a74699163/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-vishnuvs769@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuvs769@gmail.com)](mailto:vishnuvs769@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-vishnuvs?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-vs-a74699163/)](https://www.linkedin.com/in/vishnu-vs-a74699163/)
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/leftover_of_yesterdayz/)]
-<a href="https://twitter.com/iamvishnuvs?s=08" ><img src="https://img.shields.io/twitter/follow/vishnu.svg?style=social" /> </a>
-<br>
 
 
 
@@ -29,6 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: I love to draw and blah blah..
+- 📫 How to reach me **vishnuvs769@gmail.com**
 
  
 
