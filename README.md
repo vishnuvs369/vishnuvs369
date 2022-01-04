@@ -21,7 +21,7 @@ I like building new stuff and work with other people.
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [vishnuvs.com](https://vishnuvs369.github.io/)
+- My Personal Website :yum: [vishnuvs.com](https://vishnuvs.netlify.app/)
 
 
 Here are some ideas to get you started:
